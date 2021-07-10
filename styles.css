@@ -1,4 +1,7 @@
 
+
+    
+
 body{
     font-family: 'Roboto', sans-serif;
     margin:0px;
@@ -229,10 +232,10 @@ padding-right:130px;
     
 }
 .section-five{
-    width:500px;
+ 
     padding-top:50px;
     padding-left:170px;
-    background: lime;
+    background:gainsboro;
     display:flex;
     
     
@@ -243,14 +246,36 @@ h6{
     font-size:small;
 }
 div .container-one{
-    display:inline;
-  width:300px;
+    
+  width:100px;
   height:200px;
-  background:lightpink;
+
+  padding-right:300px;
   
 }
 div .container-two{
-    display:inline;
+    
+    width:150px;
+    height:300px;
+    padding-right:200px;
+}
+div .container-Three{
     width:400px;
     height:300px;
+
+}
+.final-footer img {
+  
+    padding-left:450px;
+    width:px;
+    height:100px;
+
+}
+@media all and (max-width:800px){
+    body{
+        display:none;
+    }
+}
+footer{
+    background-color:lightgrey;
 }
