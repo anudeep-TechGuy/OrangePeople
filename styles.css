@@ -71,7 +71,7 @@ h5{
 }
 .section-two{
        padding-top:50px;
-       padding-left:50px;
+       padding-left:80px;
     width:100%;
     height:400px;
     background:	#e6e6fa;
@@ -81,7 +81,7 @@ h5{
     color:#007bff;
 }
 p{
-    width:600px;
+    width:500px;
     text-align: justify;
     color:black;
 }
@@ -89,7 +89,7 @@ p{
 .sec-two{
     
    padding-top:60px;
-   padding-left:40px;
+   padding-left:180px;
     
     height:300px;
     
@@ -134,4 +134,41 @@ strong{
  
     left:-40px;
      bottom:10px;
+}
+.section-three{
+   
+    padding-top:50px;
+    padding-left:170px;
+    
+
+}
+.o-links{
+    padding-left:200px;
+}
+.h-3{
+    color:#007bff;
+}
+
+.img-3{
+ margin-left:0px;
+  width: 280px;
+  height:300px;
+  margin:0px;
+  margin-right:50px;
+  margin-bottom:20px;
+
+}
+figcaption{
+    
+    display:inline;
+    margin-bottom:10px;
+}
+.fig-1, .fig-2, .fig-3{
+    font-weight: 600;
+}
+.fig-2{
+    margin-left: 250px;
+}
+.fig-3{
+    margin-left:270px;
 }
