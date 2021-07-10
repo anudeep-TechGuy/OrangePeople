@@ -172,3 +172,59 @@ figcaption{
 .fig-3{
     margin-left:270px;
 }
+.section-four{
+    
+ 
+    color:#007bff;
+    
+    padding-top:50px;
+    padding-left:170px;
+    padding-bottom:20px;
+    
+}
+.img-dp{
+    width:150px;
+    height:120px;
+    padding-right:50px;
+}
+.f-1, .f-2, .f-3, .f-4, .f-5{
+    font-weight:700;
+    color:black;
+}
+.f-1{
+padding-right:130px;
+}
+.f-2{
+    padding-right:130px; 
+}
+.f-3{
+    padding-right:130px;  
+}
+.f-4{
+    padding-right:130px;  
+}
+.d-one, .d-two, .d-three, .d-four, .d-five{
+    font-weight: 600;
+    font-size:small;
+}
+.d-one{
+    display:inline;
+    padding-right:167px;
+}
+.d-two{
+    display:inline;
+    padding-right:169px;
+}
+.d-three{
+    display:inline;
+    padding-right:170px;
+}
+.d-four{
+    display:inline;
+    padding-right:169px;
+}
+.d-five{
+    display:inline;
+    padding-right:169px;
+    
+}
